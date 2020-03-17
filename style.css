@@ -82,7 +82,11 @@ div.rightsidecol{
     
 }
 
-
+.videocontainer video{
+        width:100%;
+        position:relative;
+        margin:0;
+    }
 
 
 
